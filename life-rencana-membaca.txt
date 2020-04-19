@@ -3,6 +3,8 @@ RENCANA MEMBACA
 - Hadist
   * Hadist Qudsi
   * Hadist Populer
+    ^ Abdullah Bin Umar
+    ^ Abdullah Bin Abbas
 - Sirah Nabawiyah
-- Bisnis
 - Komputer
+  * Desain Grafis
