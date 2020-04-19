@@ -4,6 +4,7 @@ RENCANA MEMBACA
   * Hadist Qudsi
   * Hadist Populer
     ^ Hadist Muslim
+    ^ Hadist Bukhari
 - Sirah Nabawiyah
 - Bisnis
 - Komputer
