@@ -3,10 +3,10 @@ RENCANA MEMBACA
 - Hadist
   * Hadist Qudsi
   * Hadist Populer
-    ^ Hadist Muslim
-    ^ Hadist Bukhari
+    ^ Abdullah Bin Umar
+    ^ Abdullah Bin Abbas
 - Sirah Nabawiyah
-- Bisnis
 - Komputer
   * Desain Grafis
 - Toefl Killer
+
